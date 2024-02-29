@@ -1,0 +1,31 @@
+{
+    "Desert": [
+      {
+        "name": "Sahara Desert",
+        "latitude": 23.4162,
+        "longitude": 25.6628
+      },
+      {
+        "name": "Arabian Desert",
+        "latitude": 24.0000,
+        "longitude": 41.0000
+      },
+      {
+        "name": "Gobi Desert",
+        "latitude": 43.0000,
+        "longitude": 105.0000
+      },
+      {
+        "name": "Kalahari Desert",
+        "latitude": -24.0000,
+        "longitude": 23.0000
+      },
+      {
+        "name": "Australian Desert",
+        "latitude": -24.0000,
+        "longitude": 134.0000
+      }
+      
+    ]
+  }
+  

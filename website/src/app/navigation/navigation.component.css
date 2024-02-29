@@ -1,0 +1,38 @@
+.bg{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.8)),url("../../assets/images/img2.jpg");
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 50vh;
+    
+}
+div img{
+    background-size: contain;
+    background-position: center;
+    width: 500px;
+    height: 500px;
+}
+.span-title{
+    font-size: 1.3rem;
+    font-family: Franklin Gothic Medium
+}
+.span-title-text{
+    font-size: 1.3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.extract{
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.drop-box{
+    border: 2px dashed black ;
+    width: 500px !important;
+    height: 500px; 
+}
+.close-button{
+    width: 50px; 
+    height: 50px; 
+    background-image: url('../../assets/images/x.jpg');
+    background-size: contain;
+    background-position: center;
+}

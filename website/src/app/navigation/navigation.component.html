@@ -1,0 +1,67 @@
+<script src='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css' rel='stylesheet' />
+
+<nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <!-- Navbar content -->
+    <div style="display: flex;">
+        <a class="ms-2" style="margin-right:20rem; height: 50px; width: 50px; border-radius: 50%;" href=""><img src="../../assets/images/a.i" style="object-fit: cover; height: 50px; width: 50px; 
+        border-radius: 50%;" alt=""></a>
+        <div class="text-center text-bold" style="color: rgb(0, 217, 255); width: 40rem; font-size: 1.5rem;
+        padding-top: 0.4rem; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        ">Landmark Recognition Model</div>
+    </div>
+</nav>
+
+<div class="bg text-center d-flex flex-column justify-content-center" >
+    <div class="me-auto ms-auto text-center text-bold" 
+    style="color: rgb(185, 253, 255); width: 50rem; font-size: 2rem; font-family:'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     ">
+        Welcome to the landmark recognition model website.  
+        To get started, upload a jpg file.
+        
+    </div>
+</div>
+
+<!-- drag functionality -->
+<div
+  class="text-center drop-box mt-5 w-50 mx-auto me-auto position-relative" 
+  (dragover)="onDragOver($event)"
+  (drop)="onDrop($event)"
+>
+  <p class="position-absolute top-50 start-50 translate-middle" *ngIf="!selectedFile">Drag and drop your image here</p>
+  <!-- <input type="file" style="display: none;" (change)="onFileSelect($event)" accept=".jpg" /> -->
+  <div *ngIf="imagePreviewUrl" class="text-center position-absolute top-50 start-50 translate-middle">
+    <img [src]="imagePreviewUrl" alt="Preview"/>
+  </div>
+  <button [disabled]="!selectedFile" (click)="removeImage()" 
+  class="btn close-button position-absolute top-0 end-0" 
+  ></button>
+</div>
+
+
+
+
+
+
+<div class="mt-4 mb-4 me-auto ms-auto text-center">
+    <form class="text-center" [formGroup]="uploadForm" (ngSubmit)="onSubmit()">
+        <!-- <input type="file"  -->
+        <!-- (change)="onFileSelect($event)" accept=".jpg"> -->
+        <div class="d-flex justify-content-center w-50 me-auto ms-auto">
+            <button class="btn btn-primary me-5" type="submit" [disabled]="!selectedFile">Upload</button>
+            <button class="btn btn-danger" (click)="handleUserLocation(this.latitude,this.longitude)" [disabled]="!explore">Explore</button>
+        </div>
+        <div *ngIf="this.result" class="mt-5" >
+            <div>
+                <span class="span-title">Class: </span> <span class="span-title-text">{{this.result.class}}</span> <br>
+                <span class="span-title">Confidence: </span> <span class="span-title-text">{{this.result.confidence}}</span>
+            </div>
+            <div class="extract mt-4 bg-dark py-4 px-5">
+                <div class="container-fluid text-light text-center">{{ extract | slice:0:currentSentencesDisplayed }}</div>
+                <button class="mt-4 btn btn-primary" (click)="showMore()">show more</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div id="map" style="width: 100%; height: 400px;"></div>
