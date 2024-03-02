@@ -36,3 +36,6 @@ div img{
     background-size: contain;
     background-position: center;
 }
+.active{
+    font-weight: bold;
+}
