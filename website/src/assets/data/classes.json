@@ -24,8 +24,1960 @@
         "name": "Australian Desert",
         "latitude": -24.0000,
         "longitude": 134.0000
+      },
+    
+      {
+        "name": "Great Victoria Desert",
+        "latitude": -29.0000,
+        "longitude": 130.0000
+      },
+      {
+        "name": "Patagonian Desert",
+        "latitude": -40.0000,
+        "longitude": -67.0000
+      },
+      {
+        "name": "Thar Desert",
+        "latitude": 26.0000,
+        "longitude": 71.0000
+      },
+      {
+        "name": "Atacama Desert",
+        "latitude": -24.0000,
+        "longitude": -69.0000
+      },
+      {
+        "name": "Sonoran Desert",
+        "latitude": 30.0000,
+        "longitude": -112.0000
+      },
+      {
+        "name": "Simpson Desert",
+        "latitude": -25.0000,
+        "longitude": 137.0000
+      },
+      {
+        "name": "Namib Desert",
+        "latitude": -24.5000,
+        "longitude": 15.0000
+      },
+      {
+        "name": "Mojave Desert",
+        "latitude": 35.0000,
+        "longitude": -116.0000
+      },
+      {
+        "name": "Antarctic Desert",
+        "latitude": -82.8628,
+        "longitude": 135.0000
+      },
+      {
+        "name": "Dasht-e Kavir",
+        "latitude": 33.0000,
+        "longitude": 54.0000
+      },
+      {
+        "name": "Dasht-e Lut",
+        "latitude": 30.0000,
+        "longitude": 58.0000
+      },
+      {
+        "name": "Taklamakan Desert",
+        "latitude": 39.0000,
+        "longitude": 84.0000
+      },
+      {
+        "name": "Colorado Desert",
+        "latitude": 33.0000,
+        "longitude": -115.0000
+      },
+      {
+        "name": "Chihuahuan Desert",
+        "latitude": 28.0000,
+        "longitude": -104.0000
+      },
+      {
+        "name": "Salar de Uyuni",
+        "latitude": -20.1336,
+        "longitude": -67.4891
+      },
+      {
+        "name": "White Desert",
+        "latitude": 27.0000,
+        "longitude": 27.0000
+      },
+      {
+        "name": "Libyan Desert",
+        "latitude": 25.0000,
+        "longitude": 26.0000
+      },
+      {
+        "name": "Simpson Desert",
+        "latitude": -25.0000,
+        "longitude": 137.0000
+      },
+      {
+        "name": "Ténéré Desert",
+        "latitude": 18.0000,
+        "longitude": 10.5000
+      },
+      {
+        "name": "Tabernas Desert",
+        "latitude": 37.0000,
+        "longitude": -2.5000
+      },
+      {
+        "name": "Black Rock Desert",
+        "latitude": 40.8500,
+        "longitude": -119.2500
+      },
+      {
+        "name": "Nubian Desert",
+        "latitude": 22.0000,
+        "longitude": 30.0000
+      },
+      {
+        "name": "Kyzylkum Desert",
+        "latitude": 42.0000,
+        "longitude": 63.0000
+      },
+      {
+        "name": "Semi-Arid Taklimakan Desert",
+        "latitude": 38.0000,
+        "longitude": 84.0000
+      },
+      {
+        "name": "Karakum Desert",
+        "latitude": 40.0000,
+        "longitude": 58.0000
+      },
+      {
+        "name": "Negev Desert",
+        "latitude": 30.7500,
+        "longitude": 34.7500
+      },
+      {
+        "name": "Baja California Desert",
+        "latitude": 28.0000,
+        "longitude": -114.0000
+      },
+      {
+        "name": "Algodones Dunes",
+        "latitude": 32.7667,
+        "longitude": -115.5000
+      },
+      {
+        "name": "Red Desert",
+        "latitude": 41.5000,
+        "longitude": -107.5000
+      },
+      {
+        "name": "Gran Desierto de Altar",
+        "latitude": 31.0000,
+        "longitude": -114.0000
+      },
+      {
+        "name": "Tanezrouft",
+        "latitude": 25.0000,
+        "longitude": 3.0000
+      },
+      {
+        "name": "Richtersveld",
+        "latitude": -28.0000,
+        "longitude": 17.0000
+      },
+      {
+        "name": "Viana Desert",
+        "latitude": -17.0000,
+        "longitude": 14.0000
+      },
+      {
+        "name": "Wahiba Sands",
+        "latitude": 22.5000,
+        "longitude": 58.5000
+      },
+      {
+        "name": "Simpson Desert",
+        "latitude": -25.0000,
+        "longitude": 137.0000
       }
       
+    ],
+    "Forest": [
+      {
+        "name": "Amazon Rainforest",
+        "latitude": -3.4653,
+        "longitude": -62.2159
+      },
+      {
+        "name": "Congo Rainforest",
+        "latitude": 0.9654,
+        "longitude": 16.7789
+      },
+      {
+        "name": "Valdivian Temperate Rainforest",
+        "latitude": -42.8035,
+        "longitude": -72.4929
+      },
+      {
+        "name": "Tongass National Forest",
+        "latitude": 57.0000,
+        "longitude": -133.0000
+      },
+      {
+        "name": "Black Forest",
+        "latitude": 48.6708,
+        "longitude": 8.2336
+      },
+      {
+        "name": "Yakushima Forest",
+        "latitude": 30.3556,
+        "longitude": 130.5633
+      },
+      {
+        "name": "Bialowieza Forest",
+        "latitude": 52.7266,
+        "longitude": 23.8524
+      },
+      {
+        "name": "Great Bear Rainforest",
+        "latitude": 52.8171,
+        "longitude": -128.2340
+      },
+      {
+        "name": "Sundarbans",
+        "latitude": 21.9497,
+        "longitude": 88.9061
+      },
+      {
+        "name": "Kinabalu Park",
+        "latitude": 6.0759,
+        "longitude": 116.5585
+      },
+      {
+        "name": "Borneo Rainforest",
+        "latitude": 4.5667,
+        "longitude": 114.6000
+      },
+      {
+        "name": "Taiga Forest",
+        "latitude": 61.5240,
+        "longitude": 105.3188
+      },
+      {
+        "name": "Humboldt Redwoods State Park",
+        "latitude": 40.3083,
+        "longitude": -123.9424
+      },
+      {
+        "name": "Muir Woods National Monument",
+        "latitude": 37.8914,
+        "longitude": -122.5774
+      },
+      {
+        "name": "Yosemite National Park",
+        "latitude": 37.8651,
+        "longitude": -119.5383
+      },
+      {
+        "name": "Yellowstone National Park",
+        "latitude": 44.4280,
+        "longitude": -110.5885
+      },
+      {
+        "name": "Tongariro National Park",
+        "latitude": -39.2727,
+        "longitude": 175.5802
+      },
+      {
+        "name": "Sagano Bamboo Forest",
+        "latitude": 35.0156,
+        "longitude": 135.6739
+      },
+      {
+        "name": "Monteverde Cloud Forest Reserve",
+        "latitude": 10.3157,
+        "longitude": -84.8265
+      },
+      {
+        "name": "Serengeti Forest",
+        "latitude": -2.3333,
+        "longitude": 34.8333
+      },
+      {
+        "name": "Djouce Woods",
+        "latitude": 53.1102,
+        "longitude": -6.2072
+      },
+      {
+        "name": "Yasuni National Park",
+        "latitude": -0.7286,
+        "longitude": -76.9394
+      },
+      {
+        "name": "Mount Field National Park",
+        "latitude": -42.6784,
+        "longitude": 146.7147
+      },
+      {
+        "name": "Epping Forest",
+        "latitude": 51.6598,
+        "longitude": 0.0579
+      },
+      {
+        "name": "Mount Elgon Forest Reserve",
+        "latitude": 1.1441,
+        "longitude": 34.5598
+      },
+      {
+        "name": "Kakamega Forest",
+        "latitude": 0.2782,
+        "longitude": 34.9247
+      },
+      {
+        "name": "Tsitsikamma Forest",
+        "latitude": -34.0422,
+        "longitude": 23.8925
+      },
+      {
+        "name": "Mulanje Mountain Forest Reserve",
+        "latitude": -16.0189,
+        "longitude": 35.5025
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "latitude": -1.0785,
+        "longitude": 29.7211
+      },
+      {
+        "name": "Virunga National Park",
+        "latitude": -0.7566,
+        "longitude": 29.5966
+      },
+      {
+        "name": "Aberdare Forest",
+        "latitude": -0.1807,
+        "longitude": 36.6847
+      },
+      {
+        "name": "Harenna Forest",
+        "latitude": 6.9790,
+        "longitude": 39.4206
+      },
+      {
+        "name": "Hlane Royal National Park",
+        "latitude": -26.1083,
+        "longitude": 31.8796
+      },
+      {
+        "name": "Mabira Forest Reserve",
+        "latitude": 0.3974,
+        "longitude": 32.7726
+      },
+      {
+        "name": "Bale Mountains National Park",
+        "latitude": 6.8752,
+        "longitude": 39.3972
+      },
+      {
+        "name": "Nyungwe Forest",
+        "latitude": -2.5675,
+        "longitude": 29.3194
+      },
+      {
+        "name": "Kahuzi-Biega National Park",
+        "latitude": -2.3421,
+        "longitude": 28.8494
+      },
+      {
+        "name": "Arusha National Park",
+        "latitude": -3.2501,
+        "longitude": 36.7768
+      },
+      {
+        "name": "Zomba Plateau",
+        "latitude": -15.3733,
+        "longitude": 35.3425
+      },
+      {
+        "name": "Nyika Plateau",
+        "latitude": -10.6070,
+        "longitude": 33.7916
+      },
+      {
+        "name": "Quirimbas National Park",
+        "latitude": -12.2500,
+        "longitude": 40.5000
+      },
+      {
+        "name": "Cederberg Wilderness Area",
+        "latitude": -32.3836,
+        "longitude": 19.2983
+      },
+      {
+        "name": "Tsavo East National Park",
+        "latitude": -2.9159,
+        "longitude": 38.5544
+      },
+      {
+        "name": "Budongo Central Forest Reserve",
+        "latitude": -2.9159,
+        "longitude": 38.5544
+      },
+      {
+        "name": "Bugoma Forest",
+        "latitude": 1.6500,
+        "longitude": 31.6167
+      },
+      {
+        "name": "Kalinzu Forest",
+        "latitude": -0.1895,
+        "longitude": 30.1253
+      },
+      {
+        "name": "Mghahinga Forest",
+        "latitude": -1.3842,
+        "longitude": 29.5855
+      },
+      {
+        "name": "Kibale Forest",
+        "latitude": 0.5143,
+        "longitude": 30.4044
+      },
+      {
+        "name": "Maramagambo Forest",
+        "latitude": -0.1694,
+        "longitude": 29.7931
+      },
+      {
+        "name": "Echuya Forest",
+        "latitude": -1.2098,
+        "longitude": 29.9567
+      },
+      {
+        "name": "Katsyoha-Kitomi Forest",
+        "latitude": -0.6034,
+        "longitude": 30.2234
+      },
+      {
+        "name": "Tarkine Rainforest",
+        "latitude": -41.9292,
+        "longitude": 145.7969
+      },
+      {
+        "name": "Hoh Rainforest",
+        "latitude": 47.8533,
+        "longitude": -123.9292
+      },
+      {
+        "name": "Olympic National Forest",
+        "latitude": 47.7509,
+        "longitude": -123.7513
+      },
+      {
+        "name": "Chiquibul Forest Reserve",
+        "latitude": 16.8408,
+        "longitude": -89.1608
+      },
+      {
+        "name": "Klamath National Forest",
+        "latitude": 41.8105,
+        "longitude": -123.4160
+      },
+      {
+        "name": "Daintree Rainforest",
+        "latitude": -16.2516,
+        "longitude": 145.3881
+      },
+      {
+        "name": "Gondwana Rainforests",
+        "latitude": -28.2293,
+        "longitude": 152.4378
+      },
+      {
+        "name": "El Yunque National Forest",
+        "latitude": 18.3211,
+        "longitude": -65.7746
+      },
+      {
+        "name": "Tayrona National Natural Park",
+        "latitude": 11.3399,
+        "longitude": -74.0346
+      },
+      {
+        "name": "Białowieża Forest",
+        "latitude": 52.7266,
+        "longitude": 23.8524
+      },
+      {
+        "name": "Goblin Forest",
+        "latitude": -39.1241,
+        "longitude": 175.6062
+      },
+      {
+        "name": "Redwood National and State Parks",
+        "latitude": 41.2132,
+        "longitude": -124.0046
+      },
+      {
+        "name": "Sequoia National Park",
+        "latitude": 36.4864,
+        "longitude": -118.5658
+      },
+      {
+        "name": "Jiuzhaigou Valley",
+        "latitude": 33.2522,
+        "longitude": 103.9180
+      },
+      {
+        "name": "Gifford Pinchot National Forest",
+        "latitude": 46.1854,
+        "longitude": -121.6289
+      },
+      {
+        "name": "Allegheny National Forest",
+        "latitude": 41.5501,
+        "longitude": -78.7190
+      },
+      {
+        "name": "Ancient Bristlecone Pine Forest",
+        "latitude": 37.3647,
+        "longitude": -118.2024
+      },
+      {
+        "name": "Great Otway National Park",
+        "latitude": -38.7333,
+        "longitude": 143.6167
+      },
+      {
+        "name": "Miyajima Primeval Forest",
+        "latitude": 34.2967,
+        "longitude": 132.3194
+      },
+      {
+        "name": "Gola Forest Reserve",
+        "latitude": 7.4655,
+        "longitude": -10.4719
+      },
+      {
+        "name": "Carpathian Biosphere Reserve",
+        "latitude": 48.1500,
+        "longitude": 24.4000
+      },
+      {
+        "name": "Belovezhskaya Pushcha National Park",
+        "latitude": 52.4734,
+        "longitude": 23.7895
+      },
+      {
+        "name": "Great Smoky Mountains National Park",
+        "latitude": 35.6532,
+        "longitude": -83.5070
+      }
+      
+    ],
+
+    "Glacier": [
+      {
+        "name": "Aletsch Glacier",
+        "latitude": 46.4911,
+        "longitude": 8.0521
+      },
+      {
+        "name": "Vatnajökull Glacier",
+        "latitude": 64.4141,
+        "longitude": -16.9871
+      },
+      {
+        "name": "Franz Josef Glacier",
+        "latitude": -43.4667,
+        "longitude": 170.1833
+      },
+      {
+        "name": "Perito Moreno Glacier",
+        "latitude": -50.4969,
+        "longitude": -73.1373
+      },
+      {
+        "name": "Glacier Bay",
+        "latitude": 58.8000,
+        "longitude": -136.5000
+      },
+      {
+        "name": "Athabasca Glacier",
+        "latitude": 52.2197,
+        "longitude": -117.2584
+      },
+      {
+        "name": "Columbia Glacier",
+        "latitude": 60.0108,
+        "longitude": -147.7028
+      },
+      {
+        "name": "Biafo Glacier",
+        "latitude": 35.4081,
+        "longitude": 75.2887
+      },
+      {
+        "name": "Siachen Glacier",
+        "latitude": 35.4214,
+        "longitude": 77.1097
+      },
+      {
+        "name": "Fox Glacier",
+        "latitude": -43.4667,
+        "longitude": 170.1833
+      },
+      {
+        "name": "Jakobshavn Glacier",
+        "latitude": 69.2167,
+        "longitude": -49.9167
+      },
+      {
+        "name": "Baltoro Glacier",
+        "latitude": 35.7972,
+        "longitude": 76.6306
+      },
+      {
+        "name": "Helheim Glacier",
+        "latitude": 66.3833,
+        "longitude": -38.3167
+      },
+      {
+        "name": "Gasherbrum Glacier",
+        "latitude": 35.7308,
+        "longitude": 76.6172
+      },
+      {
+        "name": "Taku Glacier",
+        "latitude": 58.7042,
+        "longitude": -134.5186
+      },
+      {
+        "name": "Briksdalsbreen",
+        "latitude": 61.7042,
+        "longitude": 6.8503
+      },
+      {
+        "name": "Jostedalsbreen",
+        "latitude": 61.6348,
+        "longitude": 6.8624
+      },
+      {
+        "name": "Austfonna",
+        "latitude": 80.0878,
+        "longitude": 23.4162
+      },
+      {
+        "name": "Ward Hunt Ice Shelf",
+        "latitude": 83.0833,
+        "longitude": -74.4000
+      },
+      {
+        "name": "Hintereisferner",
+        "latitude": 46.8333,
+        "longitude": 10.8333
+      },
+      {
+        "name": "Great Aletsch Glacier",
+        "latitude": 46.4214,
+        "longitude": 7.9558
+      },
+      {
+        "name": "Pasterze Glacier",
+        "latitude": 47.0794,
+        "longitude": 12.7578
+      },
+      {
+        "name": "Mer de Glace",
+        "latitude": 45.8958,
+        "longitude": 6.8886
+      },
+      {
+        "name": "Khumbu Glacier",
+        "latitude": 27.9542,
+        "longitude": 86.7578
+      },
+      {
+        "name": "Karakoram Glacier",
+        "latitude": 35.7969,
+        "longitude": 76.6261
+      },
+      {
+        "name": "Malaspina Glacier",
+        "latitude": 60.0833,
+        "longitude": -141.9167
+      },
+      {
+        "name": "Gorner Glacier",
+        "latitude": 45.9864,
+        "longitude": 7.7653
+      },
+      {
+        "name": "Glacier de la Grande Motte",
+        "latitude": 45.5711,
+        "longitude": 6.8944
+      },
+      {
+        "name": "Gries Glacier",
+        "latitude": 46.6000,
+        "longitude": 8.0500
+      },
+      {
+        "name": "Langjökull Glacier",
+        "latitude": 64.7369,
+        "longitude": -19.5083
+      },
+      {
+        "name": "Furtwangler Glacier",
+        "latitude": -3.067,
+        "longitude": 37.357
+      },
+      {
+        "name": "Pio XI Glacier",
+        "latitude": -49.5,
+        "longitude": -74.5
+      },
+      {
+        "name": "Austfonna Glacier",
+        "latitude": 80.097,
+        "longitude": 23.387
+      },
+      {
+        "name": "Gauligletscher",
+        "latitude": 46.8667,
+        "longitude": 8.3667
+      },
+      {
+        "name": "Brüggen Glacier",
+        "latitude": -51.3,
+        "longitude": -73.1
+      },
+      {
+        "name": "Pio XI Glacier",
+        "latitude": -49.5,
+        "longitude": -74.5
+      },
+      {
+        "name": "Pastoruri Glacier",
+        "latitude": -9.406,
+        "longitude": -77.332
+      },
+      {
+        "name": "Parlung No. 4 Glacier",
+        "latitude": 30.049,
+        "longitude": 98.523
+      },
+      {
+        "name": "Piramide Glacier",
+        "latitude": -72.46,
+        "longitude": -98.26
+      },
+      {
+        "name": "Puncak Jaya Glacier",
+        "latitude": -4.078,
+        "longitude": 137.161
+      },
+      {
+        "name": "Sorge Glacier",
+        "latitude": 71.8833,
+        "longitude": 95.25
+      },
+      {
+        "name": "Storglaciären",
+        "latitude": 67.9,
+        "longitude": 18.5
+      },
+      {
+        "name": "Tasman Glacier",
+        "latitude": -43.72,
+        "longitude": 170.19
+      },
+      {
+        "name": "Upsala Glacier",
+        "latitude": -49.5,
+        "longitude": -73.2
+      },
+      {
+        "name": "Viedma Glacier",
+        "latitude": -49.5,
+        "longitude": -73.05
+      },
+      {
+        "name": "Yulong Snow Mountain Glacier",
+        "latitude": 27.017,
+        "longitude": 100.182
+      },
+      {
+        "name": "Batura Glacier",
+        "latitude": 36.444,
+        "longitude": 74.575
+      },
+      {
+        "name": "Gasherbrum Glacier",
+        "latitude": 35.7308,
+        "longitude": 76.6172
+      },
+      {
+        "name": "Sofia Glacier",
+        "latitude": -51.55,
+        "longitude": -72.55
+      },
+      {
+        "name": "Fitz Roy Glacier",
+        "latitude": -49.28,
+        "longitude": -73.04
+      },
+      {
+        "name": "Fortuna Glacier",
+        "latitude": -50.34,
+        "longitude": -73.2
+      },
+      {
+        "name": "Gurudongmar Glacier",
+        "latitude": 28.004,
+        "longitude": 88.769
+      },
+      {
+        "name": "Gyala Peri Glacier",
+        "latitude": 28.553,
+        "longitude": 94.973
+      },
+      {
+        "name": "Hubbard Glacier",
+        "latitude": 60.1,
+        "longitude": -139.5
+      },
+      {
+        "name": "Humboldt Glacier",
+        "latitude": 76.5,
+        "longitude": -69.75
+      },
+      {
+        "name": "Hunza Glacier",
+        "latitude": 36.356,
+        "longitude": 74.783
+      },
+      {
+        "name": "Jankaraj Glacier",
+        "latitude": 35.702,
+        "longitude": 76.475
+      },
+      {
+        "name": "Kamet Glacier",
+        "latitude": 30.927,
+        "longitude": 79.578
+      },
+      {
+        "name": "Kanjiroba Glacier",
+        "latitude": 29.635,
+        "longitude": 82.562
+      },
+      {
+        "name": "Karuola Glacier",
+        "latitude": 27.801,
+        "longitude": 86.949
+      },
+      {
+        "name": "Rwenzori Glaciers",
+        "latitude": 0.3833,
+        "longitude": 29.8667
+      },
+      {
+        "name": "Mount Kenya Glaciers",
+        "latitude": -0.1528,
+        "longitude": 37.315
+      }
+    ],
+    
+    "Coast": [
+      {
+        "name": "East Coast of the United States",
+        "latitude": 37.0902,
+        "longitude": -95.7129
+      },
+      {
+        "name": "West Coast of the United States",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      {
+        "name": "East Coast of Australia",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      {
+        "name": "West Coast of Australia",
+        "latitude": -31.9505,
+        "longitude": 115.8605
+      },
+      {
+        "name": "East Coast of Africa",
+        "latitude": -4.0435,
+        "longitude": 39.6682
+      },
+      {
+        "name": "West Coast of Africa",
+        "latitude": 6.5244,
+        "longitude": 3.3792
+      },
+      {
+        "name": "East Coast of Canada",
+        "latitude": 45.4215,
+        "longitude": -75.6919
+      },
+      {
+        "name": "West Coast of Canada",
+        "latitude": 49.2827,
+        "longitude": -123.1207
+      },
+      {
+        "name": "East Coast of Mexico",
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      {
+        "name": "West Coast of Mexico",
+        "latitude": 21.1619,
+        "longitude": -86.8515
+      },
+      {
+        "name": "East Coast of Brazil",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      {
+        "name": "West Coast of Brazil",
+        "latitude": -3.7172,
+        "longitude": -38.5431
+      },
+      {
+        "name": "East Coast of Argentina",
+        "latitude": -34.6037,
+        "longitude": -58.3816
+      },
+      {
+        "name": "West Coast of Argentina",
+        "latitude": -38.4161,
+        "longitude": -63.6167
+      },
+      {
+        "name": "East Coast of Japan",
+        "latitude": 35.6895,
+        "longitude": 139.6917
+      },
+      {
+        "name": "West Coast of Japan",
+        "latitude": 35.4437,
+        "longitude": 139.6380
+      },
+      {
+        "name": "East Coast of China",
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      },
+      {
+        "name": "West Coast of China",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+      },
+      {
+        "name": "East Coast of India",
+        "latitude": 13.0827,
+        "longitude": 80.2707
+      },
+      {
+        "name": "West Coast of India",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+      },
+      {
+        "name": "East Coast of Russia",
+        "latitude": 55.7558,
+        "longitude": 37.6176
+      },
+      {
+        "name": "West Coast of Russia",
+        "latitude": 59.9343,
+        "longitude": 30.3351
+      },
+      {
+        "name": "East Coast of Spain",
+        "latitude": 41.3851,
+        "longitude": 2.1734
+      },
+      {
+        "name": "West Coast of Spain",
+        "latitude": 43.3623,
+        "longitude": -8.4115
+      },
+      {
+        "name": "East Coast of Italy",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "name": "West Coast of Italy",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "name": "East Coast of Greece",
+        "latitude": 37.9838,
+        "longitude": 23.7275
+      },
+      {
+        "name": "West Coast of Greece",
+        "latitude": 37.9838,
+        "longitude": 23.7275
+      },
+      {
+        "name": "East Coast of South Africa",
+        "latitude": -29.8587,
+        "longitude": 31.0218
+      },
+      {
+        "name": "West Coast of South Africa",
+        "latitude": -33.9249,
+        "longitude": 18.4241
+      },
+      {
+        "name": "East Coast of New Zealand",
+        "latitude": -36.8485,
+        "longitude": 174.7633
+      },
+      {
+        "name": "West Coast of New Zealand",
+        "latitude": -41.2865,
+        "longitude": 174.7762
+      },
+      {
+        "name": "East Coast of Norway",
+        "latitude": 59.9139,
+        "longitude": 10.7522
+      },
+      {
+        "name": "West Coast of Norway",
+        "latitude": 60.4720,
+        "longitude": 8.4689
+      },
+      {
+        "name": "East Coast of United Kingdom",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "name": "West Coast of United Kingdom",
+        "latitude": 55.3781,
+        "longitude": -3.4360
+      }
+    ],
+    "Mountain": [
+      {
+        "name": "Mount Everest",
+        "latitude": 27.9881,
+        "longitude": 86.9250
+      },
+      {
+        "name": "K2",
+        "latitude": 35.8814,
+        "longitude": 76.5133
+      },
+      {
+        "name": "Kangchenjunga",
+        "latitude": 27.7025,
+        "longitude": 88.1466
+      },
+      {
+        "name": "Lhotse",
+        "latitude": 27.9616,
+        "longitude": 86.9336
+      },
+      {
+        "name": "Makalu",
+        "latitude": 27.8890,
+        "longitude": 87.0889
+      },
+      {
+        "name": "Cho Oyu",
+        "latitude": 28.0948,
+        "longitude": 86.6601
+      },
+      {
+        "name": "Dhaulagiri",
+        "latitude": 28.6961,
+        "longitude": 83.7239
+      },
+      {
+        "name": "Manaslu",
+        "latitude": 28.5500,
+        "longitude": 84.5650
+      },
+      {
+        "name": "Nanga Parbat",
+        "latitude": 35.2372,
+        "longitude": 74.5896
+      },
+      {
+        "name": "Annapurna",
+        "latitude": 28.5962,
+        "longitude": 83.8207
+      },
+      {
+        "name": "Gasherbrum I",
+        "latitude": 35.7322,
+        "longitude": 76.6914
+      },
+      {
+        "name": "Broad Peak",
+        "latitude": 35.8097,
+        "longitude": 76.5683
+      },
+      {
+        "name": "Gasherbrum II",
+        "latitude": 35.7556,
+        "longitude": 76.6533
+      },
+      {
+        "name": "Shishapangma",
+        "latitude": 28.3525,
+        "longitude": 85.7797
+      },
+      {
+        "name": "Dhaulagiri II",
+        "latitude": 28.7364,
+        "longitude": 83.3714
+      },
+      {
+        "name": "Cho Oyu",
+        "latitude": 28.0948,
+        "longitude": 86.6601
+      },
+      {
+        "name": "Gyachung Kang",
+        "latitude": 28.0983,
+        "longitude": 86.8139
+      },
+      {
+        "name": "Annapurna II",
+        "latitude": 28.6014,
+        "longitude": 84.1300
+      },
+      {
+        "name": "Gasherbrum III",
+        "latitude": 35.7317,
+        "longitude": 76.6483
+      },
+      {
+        "name": "Annapurna III",
+        "latitude": 28.5556,
+        "longitude": 83.9103
+      },
+      {
+        "name": "Gasherbrum IV",
+        "latitude": 35.7297,
+        "longitude": 76.6533
+      },
+      {
+        "name": "Himalchuli",
+        "latitude": 28.4164,
+        "longitude": 84.6450
+      },
+      {
+        "name": "Distaghil Sar",
+        "latitude": 35.8167,
+        "longitude": 76.6667
+      },
+      {
+        "name": "Ngadi Chuli",
+        "latitude": 28.5619,
+        "longitude": 84.3964
+      },
+      {
+        "name": "Changtse",
+        "latitude": 28.0483,
+        "longitude": 86.9167
+      },
+      {
+        "name": "Diran",
+        "latitude": 36.3167,
+        "longitude": 75.8667
+      },
+      {
+        "name": "Masherbrum",
+        "latitude": 35.7811,
+        "longitude": 76.4622
+      },
+      {
+        "name": "Rakaposhi",
+        "latitude": 36.1500,
+        "longitude": 74.5000
+      },
+      {
+        "name": "Haramosh Peak",
+        "latitude": 35.9031,
+        "longitude": 74.8975
+      },
+      {
+        "name": "Annapurna South",
+        "latitude": 28.5303,
+        "longitude": 83.8239
+      },
+      {
+        "name": "Batura Sar",
+        "latitude": 36.3600,
+        "longitude": 74.6333
+      },
+      {
+        "name": "Kanjut Sar",
+        "latitude": 36.2044,
+        "longitude": 75.1847
+      },
+      {
+        "name": "Kangpenqing",
+        "latitude": 28.0461,
+        "longitude": 90.2519
+      },
+      {
+        "name": "Yutmaru Sar",
+        "latitude": 36.4167,
+        "longitude": 75.4167
+      },
+      {
+        "name": "K2",
+        "latitude": 35.8814,
+        "longitude": 76.5133
+      },
+      {
+        "name": "Saltoro Kangri",
+        "latitude": 35.3703,
+        "longitude": 76.9592
+      },
+      {
+        "name": "Batura I",
+        "latitude": 36.2536,
+        "longitude": 74.6142
+      },
+      {
+        "name": "Muztagh Tower",
+        "latitude": 36.3617,
+        "longitude": 75.1406
+      },
+      {
+        "name": "Mana Peak",
+        "latitude": 30.7086,
+        "longitude": 79.8950
+      },
+      {
+        "name": "Rimo I",
+        "latitude": 35.7672,
+        "longitude": 77.3153
+      },
+      {
+        "name": "Skil Brum",
+        "latitude": 35.7694,
+        "longitude": 76.5611
+      },
+      {
+        "name": "Chogolisa",
+        "latitude": 35.6000,
+        "longitude": 76.5000
+      },
+      {
+        "name": "Baltoro Kangri",
+        "latitude": 35.7550,
+        "longitude": 76.6542
+      },
+      {
+        "name": "Sia Kangri",
+        "latitude": 35.7350,
+        "longitude": 76.6683
+      },
+      {
+        "name": "Siguang Ri",
+        "latitude": 28.2467,
+        "longitude": 85.7128
+      },
+      {
+        "name": "The Crown",
+        "latitude": 35.8000,
+        "longitude": 76.6333
+      },
+      {
+        "name": "Trivor",
+        "latitude": 36.2317,
+        "longitude": 74.5886
+      },
+      {
+        "name": "Haramosh Peak",
+        "latitude": 35.9028,
+        "longitude": 74.8994
+      },
+      {
+        "name": "Yukshin Gardan Sar",
+        "latitude": 36.3500,
+        "longitude": 74.5500
+      },
+      {
+        "name": "Baltistan Peak",
+        "latitude": 35.7956,
+        "longitude": 76.5839
+      },
+      {
+        "name": "Kangpenqing",
+        "latitude": 28.0461,
+        "longitude": 90.2519
+      },
+      {
+        "name": "Yutmaru Sar",
+        "latitude": 36.4167,
+        "longitude": 75.4167
+      },
+      {
+        "name": "Skyang Kangri",
+        "latitude": 36.0583,
+        "longitude": 75.2753
+      },
+      {
+        "name": "Masherbrum",
+        "latitude": 35.7811,
+        "longitude": 76.4622
+      },
+      {
+        "name": "Chongra Peak",
+        "latitude": 36.2200,
+        "longitude": 74.6117
+      },
+      {
+        "name": "Rimo III",
+        "latitude": 35.7672,
+        "longitude": 77.3153
+      },
+      {
+        "name": "Baltoro Kangri",
+        "latitude": 35.7550,
+        "longitude": 76.6542
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "latitude": -3.0674,
+        "longitude": 37.3556
+      },
+      
+     
+      {
+        "name": "Ras Dashen",
+        "latitude": 13.2781,
+        "longitude": 38.2125
+      },
+      {
+        "name": "Ruinsori Mountains",
+        "latitude": 0.3600,
+        "longitude": 29.8789
+      },
+      {
+        "name": "Mount Meru",
+        "latitude": -3.2500,
+        "longitude": 36.7500
+      },
+      {
+        "name": "Mount Stanley",
+        "latitude": 0.3806,
+        "longitude": 29.8625
+      },
+      {
+        "name": "Mount Speke",
+        "latitude": 0.3531,
+        "longitude": 29.8686
+      },
+      {
+        "name": "Mount Baker",
+        "latitude": -1.4069,
+        "longitude": 29.6321
+      },
+      {
+        "name": "Mount Muhavura",
+        "latitude": -1.3851,
+        "longitude": 29.6840
+      },
+      {
+        "name": "Mount Karisimbi",
+        "latitude": -1.5070,
+        "longitude": 29.4507
+      },
+      {
+        "name": "Mount Nyiragongo",
+        "latitude": -1.5221,
+        "longitude": 29.2492
+      },
+      {
+        "name": "Mount Nyiragongo",
+        "latitude": -1.5221,
+        "longitude": 29.2492
+      },
+      {
+        "name": "Kilimanjaro",
+        "latitude": -3.0674,
+        "longitude": 37.3556
+      },
+    
+      {
+        "name": "Mount Elgon",
+        "latitude": 1.1235,
+        "longitude": 34.5599
+      },
+      {
+        "name": "Simien Mountains",
+        "latitude": 13.1357,
+        "longitude": 38.0232
+      },
+      {
+        "name": "Ras Dashen",
+        "latitude": 13.2781,
+        "longitude": 38.2125
+      },
+      {
+        "name": "Ruinsori Mountains",
+        "latitude": 0.3600,
+        "longitude": 29.8789
+      },
+      {
+        "name": "Mount Meru",
+        "latitude": -3.2500,
+        "longitude": 36.7500
+      },
+      {
+        "name": "Mount Stanley",
+        "latitude": 0.3806,
+        "longitude": 29.8625
+      },
+      {
+        "name": "Mount Speke",
+        "latitude": 0.3531,
+        "longitude": 29.8686
+      },
+      {
+        "name": "Mount Baker",
+        "latitude": -1.4069,
+        "longitude": 29.6321
+      },
+      {
+        "name": "Mount Muhavura",
+        "latitude": -1.3851,
+        "longitude": 29.6840
+      },
+      {
+        "name": "Mount Karisimbi",
+        "latitude": -1.5070,
+        "longitude": 29.4507
+      },
+      {
+        "name": "Mount Nyiragongo",
+        "latitude": -1.5221,
+        "longitude": 29.2492
+      },
+      {
+        "name": "Mount Nyiragongo",
+        "latitude": -1.5221,
+        "longitude": 29.2492
+      },
+      {
+        "name": "Mount Bisoke",
+        "latitude": -1.4787,
+        "longitude": 29.4981
+      },
+      {
+        "name": "Mount Sabyinyo",
+        "latitude": -1.3879,
+        "longitude": 29.5864
+      },
+      {
+        "name": "Mount Gahinga",
+        "latitude": -1.3832,
+        "longitude": 29.6735
+      },
+      {
+        "name": "Mount Kadam",
+        "latitude": 2.7252,
+        "longitude": 34.1002
+      },
+   
+    
+      
+      {
+        "name": "Mount Kadam",
+        "latitude": 2.7252,
+        "longitude": 34.1002
+      },
+  
+    
+    
+      {
+        "name": "Mount Meru",
+        "latitude": -3.2500,
+        "longitude": 36.7500
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "latitude": -3.0674,
+        "longitude": 37.3556
+      },
+  
+      {
+        "name": "Mount Cameroon",
+        "latitude": 4.2221,
+        "longitude": 9.1707
+      },
+      {
+        "name": "Mount Semien",
+        "latitude": 14.3064,
+        "longitude": 38.1629
+      },
+      {
+        "name": "Mount Atlantika",
+        "latitude": -3.4667,
+        "longitude": 35.1500
+      },
+      {
+        "name": "Emi Koussi",
+        "latitude": 19.7928,
+        "longitude": 18.5606
+      },
+      {
+        "name": "Mount Nimba",
+        "latitude": 7.5417,
+        "longitude": -8.4583
+      },
+      {
+        "name": "Moco",
+        "latitude": -11.8233,
+        "longitude": 15.5528
+      },
+  
+      {
+        "name": "Kerkeslin",
+        "latitude": -19.4728,
+        "longitude": 29.8086
+      },
+      {
+        "name": "Toubkal",
+        "latitude": 31.0425,
+        "longitude": -7.9158
+      },
+      {
+        "name": "Tahat",
+        "latitude": 23.3000,
+        "longitude": 5.3000
+      },
+      {
+        "name": "Mgoun",
+        "latitude": 31.9183,
+        "longitude": -6.4892
+      },
+      {
+        "name": "Tidirhine",
+        "latitude": 31.6592,
+        "longitude": -7.7447
+      },
+      {
+        "name": "Tamgak",
+        "latitude": 31.5683,
+        "longitude": -7.9364
+      },
+      {
+        "name": "Mawson Peak",
+        "latitude": -37.8237,
+        "longitude": 77.5401
+      },
+      {
+        "name": "Queen Mary's Peak",
+        "latitude": -37.0869,
+        "longitude": -12.2778
+      },
+      {
+        "name": "Mount Kenya",
+        "latitude": -0.1536,
+        "longitude": 37.3085
+      },
+      
+      {
+        "name": "Rwenzori Mountains",
+        "latitude": 0.3600,
+        "longitude": 29.8789
+      },
+      {
+        "name": "Mount Moroto",
+        "latitude": 2.5405,
+        "longitude": 34.6415
+      },
+      {
+        "name": "Mount Napak",
+        "latitude": 2.4698,
+        "longitude": 34.6617
+      },
+      {
+        "name": "Mount Otzi",
+        "latitude": 2.9201,
+        "longitude": 34.2071
+      },
+      {
+        "name": "Mount McKinley (Denali)",
+        "latitude": 63.0695,
+        "longitude": -151.0070
+      },
+      {
+        "name": "Mount Saint Elias",
+        "latitude": 60.2925,
+        "longitude": -140.9378
+      },
+      {
+        "name": "Mount Foraker",
+        "latitude": 62.9600,
+        "longitude": -151.3994
+      },
+      {
+        "name": "Mount Bona",
+        "latitude": 61.3850,
+        "longitude": -141.7489
+      },
+      {
+        "name": "Mount Blackburn",
+        "latitude": 61.7306,
+        "longitude": -143.4331
+      },
+      {
+        "name": "Mount Logan",
+        "latitude": 60.5672,
+        "longitude": -140.4050
+      },
+      {
+        "name": "Pico de Orizaba",
+        "latitude": 19.0230,
+        "longitude": -97.2662
+      },
+      {
+        "name": "Mount Whitney",
+        "latitude": 36.5784,
+        "longitude": -118.2923
+      },
+      {
+        "name": "Mount Rainier",
+        "latitude": 46.8523,
+        "longitude": -121.7603
+      },
+      {
+        "name": "Mount Shasta",
+        "latitude": 41.4096,
+        "longitude": -122.1942
+      },
+      {
+        "name": "Mount Hood",
+        "latitude": 45.3734,
+        "longitude": -121.6958
+      },
+      {
+        "name": "Mount Baker",
+        "latitude": 48.7767,
+        "longitude": -121.8144
+      },
+      {
+        "name": "Glacier Peak",
+        "latitude": 48.1111,
+        "longitude": -121.1114
+      },
+      {
+        "name": "Mount Adams",
+        "latitude": 46.2025,
+        "longitude": -121.4908
+      },
+      {
+        "name": "Mount Olympus",
+        "latitude": 47.7994,
+        "longitude": -123.7147
+      },
+      {
+        "name": "Mount Ritter",
+        "latitude": 37.6946,
+        "longitude": -119.2598
+      },
+      {
+        "name": "Mount Lyell",
+        "latitude": 37.7350,
+        "longitude": -119.2917
+      },
+      {
+        "name": "Mount Williamson",
+        "latitude": 36.6777,
+        "longitude": -118.3131
+      },
+      {
+        "name": "White Mountain Peak",
+        "latitude": 37.6342,
+        "longitude": -118.2527
+      },
+      {
+        "name": "Mount Shasta",
+        "latitude": 41.4096,
+        "longitude": -122.1942
+      },
+      {
+        "name": "Mount Adams",
+        "latitude": 46.2025,
+        "longitude": -121.4908
+      },
+      {
+        "name": "Mount Hood",
+        "latitude": 45.3734,
+        "longitude": -121.6958
+      },
+      {
+        "name": "Mount Baker",
+        "latitude": 48.7767,
+        "longitude": -121.8144
+      },
+      {
+        "name": "Mount Saint Helens",
+        "latitude": 46.1914,
+        "longitude": -122.1956
+      },
+      {
+        "name": "Mount Adams",
+        "latitude": 46.2025,
+        "longitude": -121.4908
+      },
+      {
+        "name": "Mount Saint Helens",
+        "latitude": 46.1914,
+        "longitude": -122.1956
+      },
+      {
+        "name": "Mount Hood",
+        "latitude": 45.3734,
+        "longitude": -121.6958
+      },
+      {
+        "name": "Mount Baker",
+        "latitude": 48.7767,
+        "longitude": -121.8144
+      },
+      {
+        "name": "Mount Shasta",
+        "latitude": 41.4096,
+        "longitude": -122.1942
+      },
+      {
+        "name": "Mount Adams",
+        "latitude": 46.2025,
+        "longitude": -121.4908
+      },
+      {
+        "name": "Aconcagua",
+        "latitude": -32.6533,
+        "longitude": -70.0111
+      },
+      {
+        "name": "Ojos del Salado",
+        "latitude": -27.1097,
+        "longitude": -68.5542
+      },
+      {
+        "name": "Mount Pissis",
+        "latitude": -27.7667,
+        "longitude": -68.8333
+      },
+      {
+        "name": "Huascarán",
+        "latitude": -9.1408,
+        "longitude": -77.5292
+      },
+      {
+        "name": "Sajama",
+        "latitude": -18.1031,
+        "longitude": -68.8917
+      },
+      {
+        "name": "Licancabur",
+        "latitude": -22.8308,
+        "longitude": -67.8822
+      },
+      {
+        "name": "Chimborazo",
+        "latitude": -1.4694,
+        "longitude": -78.8175
+      },
+      {
+        "name": "Cotopaxi",
+        "latitude": -0.6806,
+        "longitude": -78.4372
+      },
+      {
+        "name": "Illimani",
+        "latitude": -16.6347,
+        "longitude": -67.7817
+      },
+      {
+        "name": "Coropuna",
+        "latitude": -15.5250,
+        "longitude": -72.6225
+      },
+      {
+        "name": "Tres Cruces Sur",
+        "latitude": -27.0886,
+        "longitude": -68.8269
+      },
+      {
+        "name": "Sairecabur",
+        "latitude": -22.7197,
+        "longitude": -67.8933
+      },
+      {
+        "name": "Nevado Tres Cruces",
+        "latitude": -27.0986,
+        "longitude": -68.8261
+      },
+      {
+        "name": "Nevado Anallajsi",
+        "latitude": -20.1167,
+        "longitude": -67.5667
+      },
+      {
+        "name": "Nevado de Incahuasi",
+        "latitude": -27.0314,
+        "longitude": -68.4636
+      },
+      {
+        "name": "Chachani",
+        "latitude": -16.1975,
+        "longitude": -71.5247
+      },
+      {
+        "name": "Huandoy",
+        "latitude": -9.1222,
+        "longitude": -77.6358
+      },
+      {
+        "name": "Cerro El Plomo",
+        "latitude": -33.2172,
+        "longitude": -70.1350
+      },
+      {
+        "name": "Pular",
+        "latitude": -23.8172,
+        "longitude": -67.8775
+      },
+      {
+        "name": "Monte San Valentin",
+        "latitude": -46.5422,
+        "longitude": -73.1297
+      },
+      {
+        "name": "Huascarán",
+        "latitude": -9.1408,
+        "longitude": -77.5292
+      },
+      {
+        "name": "Nevado Tres Cruces",
+        "latitude": -27.0986,
+        "longitude": -68.8261
+      },
+      {
+        "name": "Pissis",
+        "latitude": -27.7667,
+        "longitude": -68.8333
+      },
+      {
+        "name": "Mount Rinjani",
+        "latitude": -8.4158,
+        "longitude": 116.4194
+      },
+      {
+        "name": "Nevado del Tolima",
+        "latitude": 4.6667,
+        "longitude": -75.3167
+      },
+      {
+        "name": "Nevado del Ruiz",
+        "latitude": 4.8936,
+        "longitude": -75.3178
+      },
+      {
+        "name": "Cerro de Pasco",
+        "latitude": -10.6833,
+        "longitude": -76.2667
+      },
+      {
+        "name": "Nevado del Huila",
+        "latitude": 2.9306,
+        "longitude": -76.0306
+      },
+      {
+        "name": "Monte Caburaí",
+        "latitude": 4.8500,
+        "longitude": -61.9500
+      },
+      {
+        "name": "Pico da Neblina",
+        "latitude": 0.8381,
+        "longitude": -66.9823
+      },
+      {
+        "name": "Mount Kosciuszko",
+        "latitude": -36.4550,
+        "longitude": 148.2639
+      },
+      {
+        "name": "Mount Townsend",
+        "latitude": -36.3975,
+        "longitude": 148.2611
+      },
+      {
+        "name": "Mount Twynam",
+        "latitude": -36.4092,
+        "longitude": 148.2772
+      },
+      {
+        "name": "Mount Jagungal",
+        "latitude": -36.1525,
+        "longitude": 148.4467
+      },
+      {
+        "name": "Mount Tate",
+        "latitude": -36.3208,
+        "longitude": 148.3283
+      },
+      {
+        "name": "Mount Townsend",
+        "latitude": -36.3975,
+        "longitude": 148.2611
+      },
+      {
+        "name": "Mount Twynam",
+        "latitude": -36.4092,
+        "longitude": 148.2772
+      },
+      {
+        "name": "Mount Jagungal",
+        "latitude": -36.1525,
+        "longitude": 148.4467
+      },
+      {
+        "name": "Mount Tate",
+        "latitude": -36.3208,
+        "longitude": 148.3283
+      },
+      {
+        "name": "Mount Kosciuszko",
+        "latitude": -36.4550,
+        "longitude": 148.2639
+      }
     ]
+    
+    
+  
+    
+    
+    
+    
+    
   }
   
